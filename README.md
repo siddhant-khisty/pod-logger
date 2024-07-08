@@ -1,2 +1,2 @@
 s# pod-logger
-A simple dashboard to view and simplify logs from your pod s
+A simple dashboard to view and simplify logs from your pod
