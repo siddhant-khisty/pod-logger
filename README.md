@@ -1,2 +1,2 @@
 # pod-logger
-A simple dashboard to view and simplify logs from your pod
+A simple dashboard to view and simplify logs from your pod s
